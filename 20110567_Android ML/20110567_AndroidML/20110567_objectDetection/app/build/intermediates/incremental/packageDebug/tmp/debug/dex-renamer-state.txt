@@ -1,0 +1,7 @@
+#Tue Apr 25 00:31:40 ICT 2023
+base.1=D\:\\HKII_NAM3\\LTDD\\Week11\\objectDetection\\mlkit-android-master\\object-detection\\20110567_objectDetection\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.1=classes.dex
+base.0=D\:\\HKII_NAM3\\LTDD\\Week11\\objectDetection\\mlkit-android-master\\object-detection\\20110567_objectDetection\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
